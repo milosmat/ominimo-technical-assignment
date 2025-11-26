@@ -1,0 +1,25 @@
+# --- Python bytecode & cache ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Test/coverage artefacts ---
+.pytest_cache/
+.coverage
+htmlcov/
+
+# --- IDE / editor metadata ---
+.vscode/
+.idea/
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
