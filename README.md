@@ -39,7 +39,7 @@ The goal is to:
     accident frequency and claim mix,
   - utilities to adjust prices by country and by city.
 
-- `pricing_demo.py`  
+- `demo_pricing.py`  
   Small command-line demo that runs the full pipeline:
   1. validate and fix base ES prices,
   2. project them to RS,
